@@ -28,3 +28,11 @@ lista1=['s', 'e', 'a', 'C','C', 'n', 'n', 'A']
 #print(lista)
 #lista.remove(0)
 #print(lista)
+#lista3 = ['5a4b6t]
+#lista3.split()
+#print(lista3)
+#lista4 = ['gato'.'girafa'.'aguila']
+#lista4.split('.')
+#lista3.isdigit()
+#print(lista3)
+#lista4.strip()
